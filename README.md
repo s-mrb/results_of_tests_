@@ -3,23 +3,22 @@
 Results of some of the coding/non-coding tests. Click to view.
 
 ### `JavaScript`
-
-- <a href="https://www.codingame.com/work/dashboard/candidate-report/9165471f54210e82948c41302adc5fac78575f" target="_blank">CodinGame</a>)
+- [CodinGame](https://www.codingame.com/work/dashboard/candidate-report/9165471f54210e82948c41302adc5fac78575f){:target="_blank"}
 
 ### `React`
-- [CodinGame](https://www.codingame.com/work/dashboard/candidate-report/92034223bc490638373788f98682f5f1f6272b)
+- [CodinGame](https://www.codingame.com/work/dashboard/candidate-report/92034223bc490638373788f98682f5f1f6272b){:target="_blank"}
 
 ### `Node`
-- [CodinGame](https://www.codingame.com/work/dashboard/candidate-report/920190c09b2d509f236275d21c327b6235a717)
+- [CodinGame](https://www.codingame.com/work/dashboard/candidate-report/920190c09b2d509f236275d21c327b6235a717){:target="_blank"}
 
 ### `Git`
-- [CodinGame](https://www.codingame.com/work/dashboard/candidate-report/88204206709119e654c209eceb1df9637631ed)
+- [CodinGame](https://www.codingame.com/work/dashboard/candidate-report/88204206709119e654c209eceb1df9637631ed){:target="_blank"}
 
 ### `Python3`
-- [CodinGame](https://www.codingame.com/work/dashboard/candidate-report/8820262b0d917df8b76d22aca6ebb084971063)
+- [CodinGame](https://www.codingame.com/work/dashboard/candidate-report/8820262b0d917df8b76d22aca6ebb084971063){:target="_blank"}
 
 ### `SQL`
-- [CodinGame](https://www.codingame.com/work/dashboard/candidate-report/884086f05c3ed1f0c21552b63a136c2b613aad)
+- [CodinGame](https://www.codingame.com/work/dashboard/candidate-report/884086f05c3ed1f0c21552b63a136c2b613aad){:target="_blank"}
 
 ### `English Language`
-- [EF-SET](https://www.efset.org/cert/GfCZMg)
+- [EF-SET](https://www.efset.org/cert/GfCZMg){:target="_blank"}
