@@ -3,7 +3,8 @@
 Results of some of the coding/non-coding tests. Click to view.
 
 ### `JavaScript`
-- [CodinGame](https://www.codingame.com/work/dashboard/candidate-report/9165471f54210e82948c41302adc5fac78575f)
+
+- <a href="https://www.codingame.com/work/dashboard/candidate-report/9165471f54210e82948c41302adc5fac78575f" target="_blank">CodinGame</a>)
 
 ### `React`
 - [CodinGame](https://www.codingame.com/work/dashboard/candidate-report/92034223bc490638373788f98682f5f1f6272b)
